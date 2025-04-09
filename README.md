@@ -1,5 +1,5 @@
-# JadKu
-# 📘 JadKu (Jadwal Kuliah)
+
+# 📘 JKu (Jadwal Kuliah)
 
 Aplikasi ini merupakan dashboard pribadi sederhana untuk mahasiswa, yang berfungsi untuk mencatat, mengelola, dan melihat **jadwal kuliah** secara interaktif. Dibuat menggunakan HTML5, Tailwind CSS, dan JavaScript ES6+ dengan penyimpanan data berbasis `localStorage`.
 

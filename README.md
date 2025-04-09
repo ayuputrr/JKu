@@ -52,4 +52,8 @@ Semua data disimpan secara **lokal di browser** tanpa memerlukan backend, sehing
 ## 🖼️ Screenshot
 
 
+![Screenshot (83)](https://github.com/user-attachments/assets/6a468eab-5d73-4d8b-b04f-156e6d812c0a)
+![Screenshot (85)](https://github.com/user-attachments/assets/9a2094b1-8927-4585-91da-34486250cc8a)
+![Screenshot (87)](https://github.com/user-attachments/assets/08e6bbbc-63a5-4d2c-82b9-e57c7c754471)
+![Screenshot (88)](https://github.com/user-attachments/assets/3c729faa-1a2e-400e-96c8-1f6f0b883116)
 
